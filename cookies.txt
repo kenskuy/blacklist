@@ -1,1 +1,15 @@
-v
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.youtube.com        TRUE        /        TRUE        1780675292        VISITOR_INFO1_LIVE        nvqCoc_sgmg
+.youtube.com        TRUE        /        TRUE        1780675292        VISITOR_PRIVACY_METADATA        CgJJRBIEGgAgLQ%3D%3D
+.youtube.com        TRUE        /        TRUE        1780669371        __Secure-ROLLOUT_TOKEN        CLm_18r_yb3UPxDE4anP1quRAxicotXP1quRAw%3D%3D
+.youtube.com        TRUE        /        TRUE        1799681127        __Secure-3PAPISID        m_jvBCnWzEZc6Nvp/AUk0_k85202hCUazN
+.youtube.com        TRUE        /        TRUE        1799681127        __Secure-3PSID        g.a0004Qgp661-HZ1RlnITTNGp4FkV3WooJMTrJv21m9aIElMtkxgZ0IsqaeAHj1kq3o2wuJz3eAACgYKAaUSAQ8SFQHGX2Micy8nKo8blUNXWKL7tDVypxoVAUF8yKqJ1zhn3bbZzFfvWd7t3s2J0076
+.youtube.com        TRUE        /        TRUE        1796657127        __Secure-1PSIDTS        sidts-CjUBflaCdfFGVRd07UJxkNZe8ptremqVOhJkJcVFh0n6wf19PTCAsugsFez7xQ-lfTr_5CzY-xAA
+.youtube.com        TRUE        /        TRUE        1796657127        __Secure-3PSIDTS        sidts-CjUBflaCdfFGVRd07UJxkNZe8ptremqVOhJkJcVFh0n6wf19PTCAsugsFez7xQ-lfTr_5CzY-xAA
+.youtube.com        TRUE        /        TRUE        1799681128        LOGIN_INFO        AFmmF2swRAIgbsFIyaTrYqokPKIqiPN5xyBOBFZ7zDsofPh2VuSTvDUCIEDF8Uv3E698jv604BjTVeUI7VpbG6Fq7RyXMsdVCbZL:QUQ3MjNmeDVJQVFWSDAwVWFaWTRic3VhaDAwMDFMelhUU2lzdU84YzF6Rjg0OVNfUGV4blY4ekNhTFk5MUluUEduekp2MjVkM1RIZzNkRkZnOEZfQzd6eDhRbTJMcHIxSFBMeWFoVmI0NldfN2Noa2NTcFZueUpQajlWLXFuY3A3VEJ2aUdzeW5KRGhQSC14cDFhRDEycXJGdmpJRmtnYzhR
+.youtube.com        TRUE        /        TRUE        0        YSC        q-DjeU4KcXY
+.youtube.com        TRUE        /        TRUE        1796659303        __Secure-3PSIDCC        AKEyXzW5RHMVE4Npj4Vv7S7wMY5V9lI4pOSHGrxVdtdtjBJW9DhlY0_KM9EENHx8rSpxHVI7DA
+.youtube.com        TRUE        /        TRUE        1799683304        PREF        f4=4000000&tz=Asia.Makassar&f7=100
